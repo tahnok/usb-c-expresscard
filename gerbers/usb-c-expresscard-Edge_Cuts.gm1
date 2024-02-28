@@ -1,11 +1,11 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,6.0.11+dfsg-1*%
-%TF.CreationDate,2024-02-27T20:54:30-05:00*%
-%TF.ProjectId,usb-c-expresscard,7573622d-632d-4657-9870-726573736361,rev?*%
+%TF.CreationDate,2024-02-28T17:50:01-05:00*%
+%TF.ProjectId,usb-c-expresscard,7573622d-632d-4657-9870-726573736361,R1*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.11+dfsg-1) date 2024-02-27 20:54:30*
+G04 Created by KiCad (PCBNEW 6.0.11+dfsg-1) date 2024-02-28 17:50:01*
 %MOMM*%
 %LPD*%
 G01*
